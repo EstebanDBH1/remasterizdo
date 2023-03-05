@@ -1,0 +1,65 @@
+
+
+.containerAll{
+    position: fixed;
+    inset: 0;
+    background-color: #111111;
+    transform: translateY(100%);
+}
+
+
+.about__header{
+    padding: 2rem;
+    padding-top: 6rem;
+    width: 90%;
+    margin: 0 auto;
+   
+    
+}
+
+
+.about__header p{
+    font-size: 20px;
+    
+}
+
+
+.navbar{
+    
+}
+
+
+
+.text-about{
+    position: relative;
+    overflow: hidden;
+}
+
+.p, .one{
+    transform: translateY(100%);
+}
+
+.p{
+    text-align: center;
+    font-family: Montral_m;
+    font-weight: 700;
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+.wrapper-text{
+    position: absolute;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+}
+
+.historia{
+    font-size: 40px;
+    font-family: Montral_m;
+}
+
+.name{
+    font-weight: 500;
+}
