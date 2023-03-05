@@ -96,7 +96,7 @@ TweenMax.staggerTo(" .p", 2, {
 TweenMax.to(".containerAll", 1, {
   y: 0,
   ease: Expo.easeInOut,
-  delay: 0.1,
+  delay: 1,
 });
 
 TweenMax.to(".containerAll", 1, {
